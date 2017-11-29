@@ -42,7 +42,7 @@ Data types:
 	> Materials
 	>
 	> Master data, like transaction data, are a consequence of executing process steps. However, note that
-	> ## ~^_**== IT IS NOT CONSTANTLY CHANGING ==**_^~
+	> <marquee><h2 style="background-color:#c0eeff"> <u>IT IS NOT CONSTANTLY CHANGING</u> </h2></marquee>
 
 3. **Situational Data**
 
