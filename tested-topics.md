@@ -77,4 +77,4 @@ All orders are:
     same delivery date
     same ship-to-address
 
-Interest of post groups issue
+Impact of post groups issue

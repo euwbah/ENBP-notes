@@ -30,7 +30,7 @@ Client owns multiple companies, each with multiple plants
 
 - **`ROH`**stuffe
 - **`HALB`**fabriken
-- **`HA`**ndel**`WA`**ren
+- **`HA`**ndels**`WA`**ren
 - **`FERT`**ig
 
 ### Documents:
