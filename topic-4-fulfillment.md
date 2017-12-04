@@ -1,7 +1,9 @@
 Topic 4 --- Fulfillment
 =======================
 
-### Basic fulfillment process
+## Fulfillment Proeess
+
+### Overview
 
 1. `SALES` receive **purchase order** from `CUST`
 2. `SALES` create **sales order**
@@ -11,6 +13,16 @@ Topic 4 --- Fulfillment
 5. `ACCT` creates **invoice**
 	- then sends to `CUST`
 6. `ACCT` receives **payment** from `CUST`
+
+### Technically accurate
+
+1. Pre-sales activity
+	- Necessary advertisement, marketing and contact points enable receive a purchase order
+2. Sales order processing
+3. Inventory sourcing
+4. Shipping
+5. Billing
+6. Payment
 
 ### Organizational data used in fulfillment process
 
@@ -48,10 +60,14 @@ Topic 4 --- Fulfillment
 	- Sales-specific data (sales-area-level data)
 - **Customer master**
 	- **4 Partner functions:**
-		- **Sold-to-party**
-		- **Ship-to-party**
-		- **Bill-to-party**
-		- **Payer**
+		- **Sold-to-party** (Legal ownership)
+		- **Ship-to-party** (Who actually received it)
+		- **Bill-to-party** (Legal paying party)
+		- **Payer**			(Who actually paid for it)
+	- **3 Customer data types [MCQ](#problematic-mcq):**
+		+ **General**
+		+ **Financial Accounting**
+		+ **Sales Area**
 - Customer-material info record
 	- Associates material and customer master data
 - **Pricing Conditions**
@@ -106,7 +122,11 @@ Required activity before the fulfillment process can logically be proceeded with
 (One sales order may be split up into several deliveries)
 
 
-## Impact of Post Goods Issue
+## Post Goods Issue
+
+> Goods Issue is Posted once the FERTig goods left the warehouse / plant on the way to the customer
+
+**What happens when Post Goods Issue:**
 
 - A material document is created
 - General Ledger accounts (Stock & cost of goods sold) updated
@@ -114,3 +134,36 @@ Required activity before the fulfillment process can logically be proceeded with
 - COntrolling document created
 - Billing due list is updated
 - Sales documents are updated
+
+## Credit Management Process
+
+> Process which determines if credit (i.e. debt to the organization) should be granted to customer
+
+### MCQ
+
+*"The customer credit management process assesses whether credit should be granted when:"*
+
+- Sales order is created/changed
+- Delivery is created/changed
+- Goods Issue is Posted
+
+
+## Problematic MCQ
+
+*"Which of the following key organizational elements are unique to the fulfillment process?"*
+: **Sales area**
+: **Credit control area**
+: **Shipping point**
+
+*"In the fulfillment process, a plant is..."*
+: **A facility from which the company delivers products and services to its customers**
+
+*"	The three segments into which the data in the customer master are divided are ________"*
+: **Financial accounting data**
+: **Sales area data**
+: **General data**
+
+*"The customer credit management process assesses whether credit should be granted when:"*
+: **Sales Order created/changed**
+: **Delivery created/changed**
+: **Posting Goods Issue**
