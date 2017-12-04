@@ -69,7 +69,7 @@ Pre-sales activity
 Sales Order Processing (Data to put in a sales order)
 
 Delivery Document Structure
-- The ability to combine mutiple orders into a single delivery if the 4 listed conditions are met:
+- The ability to combine multiple orders into a single delivery if the 4 listed conditions are met:
 
 All orders are:
     from same cust

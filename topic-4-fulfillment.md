@@ -55,11 +55,11 @@ Topic 4 --- Fulfillment
 - Customer-material info record
 	- Associates material and customer master data
 - **Pricing Conditions**
-	- Material price
-	- Customer specific price
-	- InCoTerms (International commercsial terms)
-	- Surcharges / discounts
-	- Taxes
+	- **Material price**
+	- **Customer specific price**
+	- **InCoTerms (International commercial terms)**
+	- **Surcharges / discounts**
+	- **Taxes**
 - Output master data
 	- e.g. quotation, order confirmation, invoices
 	- includes which media used to transmit the output:
@@ -71,4 +71,46 @@ Topic 4 --- Fulfillment
 		- Credit limit per credit control area
 		- Risk category
 		
+## **Pre-sales activity**
 
+Required activity before the fulfillment process can logically be proceeded with:
+
+- Creating and tracking customers (contacts)
+- Mailing Campaigns (**advertisement**)
+- Responding to **customer inquiries and RFQ**
+- Sending back the **quotations**
+- Outline agreements
+	+ Contracts
+	+ Scheduling agreements
+
+## Sales Order Processing
+
+**Data to put in sales order:**
+
+- Customer data
+- Material data
+- Pricing conditions
+- Shipping information
+- Billing information
+
+## Deliveries
+
+**Multiple sales order can be compounded into a single delivery**
+
+**IF the following are common**
+- customer
+- delivery date
+- shipping point (from dock/airport/rail)
+- ship-to-address (to dock/airport/rail)
+
+(One sales order may be split up into several deliveries)
+
+
+## Impact of Post Goods Issue
+
+- A material document is created
+- General Ledger accounts (Stock & cost of goods sold) updated
+- Accounting document created
+- COntrolling document created
+- Billing due list is updated
+- Sales documents are updated
