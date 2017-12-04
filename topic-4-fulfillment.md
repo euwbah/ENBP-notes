@@ -68,6 +68,7 @@ Topic 4 --- Fulfillment
 		+ **General**
 		+ **Financial Accounting**
 		+ **Sales Area**
+		+ Think: "Vendor Master", but instead of Purchasing data for the purchasing organization, it is sales area data for the sales organization
 - Customer-material info record
 	- Associates material and customer master data
 - **Pricing Conditions**
