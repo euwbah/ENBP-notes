@@ -39,7 +39,7 @@ Purchasing organization role & responsibilities & level names
 
 The 4 Master Data in the procurement process
 
-Vendor Master's 3 categories & correponding levels
+Vendor Master's 3 categories & corresponding levels
 
 Conditions
 
