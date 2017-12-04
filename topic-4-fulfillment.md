@@ -37,7 +37,38 @@ Topic 4 --- Fulfillment
 		- Rail depot
 		- Employees in charge of handling expedited orders
 10. Credit control area
-
-	- `1..*` Plant : `1..a
 	- One or more organizations responsible for managing customer credit limits
 	- Customer credit limits = maximum amount of money a customer can owe (i.e. invoice sent to customer, but customer hasn't paid)
+	- `1..*` Plant : `1..*` CCA relationship
+
+## Master Data
+- Material master
+	- General data
+	- Accounting / Financial data (company-level data)
+	- Sales-specific data (sales-area-level data)
+- **Customer master**
+	- **4 Partner functions:**
+		- **Sold-to-party**
+		- **Ship-to-party**
+		- **Bill-to-party**
+		- **Payer**
+- Customer-material info record
+	- Associates material and customer master data
+- **Pricing Conditions**
+	- Material price
+	- Customer specific price
+	- InCoTerms (International commercsial terms)
+	- Surcharges / discounts
+	- Taxes
+- Output master data
+	- e.g. quotation, order confirmation, invoices
+	- includes which media used to transmit the output:
+		- e.g. Mail, fax, EDI
+- Credit management master record
+	- General data (client-level)
+		- Total credit at enterprise level
+	- Credit control area level
+		- Credit limit per credit control area
+		- Risk category
+		
+
