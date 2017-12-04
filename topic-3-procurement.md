@@ -49,7 +49,7 @@ Topic 3 -- Procurement
 3. Consignment
 	- These goods are sent over & delivered, but still owned by the vendor until sold by the company
 4. Service
-5. Stock transfeer
+5. Stock transfer
 6. Third party order
 	- Product shipped to third-party, but cost is paid by first-party
 
