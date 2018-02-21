@@ -39,7 +39,7 @@ _General Ledger?_
 
 #### General Ledger Account Summary
 
-!(pics/gl-account-summary.png)[pic]
+![G/L account summary Ppic](pics/gl-account-summary.png)
 
 
 ### Chart of Accounts
