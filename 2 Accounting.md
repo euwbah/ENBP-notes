@@ -7,7 +7,7 @@
 Financial Accounting
 - **External** accounting (reports are meant for external parties)
 - Deals with all transactions that have **financial impact** (P/L, account balances)
-- Required **By Law** (FI reports must be submiited to the authority)
+- Required **By Law** (FI reports must be submitted to the authority)
 - Fixed report **formats set by authority**
 
 Management Accounting
@@ -39,7 +39,7 @@ _General Ledger?_
 
 #### General Ledger Account Summary
 
-!()[pics/gl-account-summary.png]
+!(pics/gl-account-summary.png)[pic]
 
 
 ### Chart of Accounts
