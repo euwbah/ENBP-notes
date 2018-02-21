@@ -39,7 +39,7 @@ _General Ledger?_
 
 #### General Ledger Account Summary
 
-![G/L account summary Ppic](pics/gl-account-summary.png)
+![G/L account summary pic](pics/gl-account-summary.png)
 
 
 ### Chart of Accounts
@@ -55,6 +55,15 @@ _General Ledger?_
 
   The G/L accounts inside the chart of accounts are can be used by one or more company codes
 
+### Balance sheet
+
+Representation of the organization's:
+
+- Assets _"owns" / gross value_--> Assets = Liabilities + Equity
+- Liabilities _"owes"_
+- Equity _"rightfully owns without debt / net value"_ --> Equity = Assets - Liabilities
+
+![Balance Sheet -- Sample](pics/balance-sheet.png)
 
 ------------
 
