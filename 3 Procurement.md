@@ -11,7 +11,7 @@
 > Remember to read the question carefully! Some questions will ask only to sum up invoice from a **certain** vendor only
 
 
-### The Procurement Process
+## The Procurement Process
 
 1. *Warehouse* creates **purchase requisition**
 2. *Purchasing organization* sends **purchase order**
@@ -42,7 +42,7 @@
             * Vendor & A/P in credit in step 2 then balanced in step 3
             * Bank in credit in step 3
 
-### Organizational Data
+## Organizational Data
 
 - Plant
 - Storage Location
@@ -52,7 +52,7 @@
         * Company-level
         * Plant-level
 
-### Master Data
+## Master Data
 
 - Material Master
 - Vendor Master
@@ -67,7 +67,7 @@
         * Contracts & Agreements
         * Any other sources
 
-### Key concepts
+## Key concepts
 
 - **Item Categories IMPORTANT**
     + i.e. the **process** of which the item is procured

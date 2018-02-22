@@ -38,7 +38,7 @@ B: 2 struct qn -> {
 
 ### Topic 4
 
-- Basic Fullfilment Process + Material Impact, Financial Impact
+- Basic Fulfillment Process + Material Impact, Financial Impact
 - Sales Org
 - Distribution Channel
 - Division 
