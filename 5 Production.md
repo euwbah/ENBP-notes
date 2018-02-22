@@ -37,7 +37,7 @@
     * Employees involved in production process
     * (Unmovable) Machines
     * Assembly Lines
-+ Includes...:
++ Includes...: (not important)
     * Basic Data
         - Name
         - Description
@@ -52,7 +52,7 @@
 ### Product Routing
 
 + Represents a series of sequential operations that must be carried out in the process of producing that product
-+ Consists of:
++ Consists of (not important):
     * Operations
     * Sequence
         - Standard
@@ -64,7 +64,7 @@
 
 ![Routing](pics/routing.png)
             
-### Material Master
+### Material Master (not important)
 
 **Specific to production:**
 - **Work Scheduling**
