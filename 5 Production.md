@@ -62,7 +62,7 @@
     * Times (duration)
         - Setup, Machine, Labor
 
-![Routing](pics/rounting.png)
+![Routing](pics/routing.png)
             
 ### Material Master
 
