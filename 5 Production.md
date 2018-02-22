@@ -14,7 +14,7 @@
 
 ### Bill Of Materials
 
-+ **BOM Structure**:
++ **BOM Structure (IMPORTANT!)**:
     * Header:
         - Status: Active | Inactive
         - Base Quantity
@@ -32,7 +32,7 @@
 
 ### Work Center
 
-+ Data about production operations/activities
++ **Data about production operations/activities**
 + Work centers can represent:
     * Employees involved in production process
     * (Unmovable) Machines
@@ -51,8 +51,8 @@
 
 ### Product Routing
 
-+ Represents a series of sequential operations that must be carried out in the process of producing that product
-+ Consists of (not important):
++ **Represents a series of sequential operations that must be carried out in the process of producing that product**
++ Consists of (important??):
     * Operations
     * Sequence
         - Standard
