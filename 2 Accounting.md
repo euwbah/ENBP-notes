@@ -11,12 +11,15 @@ Financial Accounting
 - Fixed report **formats set by authority**
 
 Management Accounting
+- Also known as **"Controlling"** as per **"FI/CO"** 
 - **Internal** Accounting (reports are meant for internal parties)
 - Mainly deals with **cost**
 - **Not legally required**
 - Report formats are **flexible.**
 
 Accounting is the **main point** of ERP!
+
+## Financial Accounting
 
 ### General Ledger
 
@@ -55,7 +58,7 @@ _General Ledger?_
 
   The G/L accounts inside the chart of accounts are can be used by one or more company codes
 
-### Balance sheet
+### Balance Sheet
 
 Representation of the organization's:
 
@@ -63,7 +66,53 @@ Representation of the organization's:
 - Liabilities _"owes"_
 - Equity _"rightfully owns without debt / net value"_ --> Equity = Assets - Liabilities
 
-![Balance Sheet -- Sample](pics/balance-sheet.png)
+![Balance sheet -- Sample](pics/balance-sheet.png)
+
+### Income Statement
+
+Net Income = Revenues - Expenses - Taxes
+
+Revenues = Sales - Deductions
+
+Expenses = Goods costs + Operating costs
+
+![Income statement](pics/income-statement.png)
+
+### Target Audience
+
+Internal:
+1. Executives
+2. Senior Management
+3. Administrative Staff
+4. Employees
+
+External:
+1. Legal Authorities
+2. Banks
+3. Auditors
+4. Shareholders
+5. Insurance
+6. Tax Authorities
+7. Media
+8. Financial Analysts
+
+------------
+
+### Management Accounting (aka _controlling_)
+
+- Collect transactional data to analyze then prepare internal reports to help with decision-making in the enterprise
+
+e.g.:
+- Cost center performance
+- Profit center performance
+- Budgets analyses
+
+Target audience:
+1. Executives
+2. Senior Management
+3. Department Managers
+4. Controllers
+5. Cost Accountants
 
 ------------
 
