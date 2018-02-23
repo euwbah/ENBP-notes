@@ -16,11 +16,11 @@ B: 2 struct qn -> {
 ### Topic 3
 
 - Know how to fill in purchase order
-- Reorder pt: like stop loss, once it reach, reoder the stuff
+- Reorder pt: like stop loss, once it reach, reorder the stuff
 - Order qty: lot size...  eg. if min == 20, only can order in incr of
             20
 - Watch out of bait vendor
-- Basic procurement process
+- Basic procurement process (5 steps)
 - Which step has material impact? : change in inventorty (qty)
 - Which step has financial impact? : change in asset,liabilities
                         equities,revenue, or expenses
@@ -30,7 +30,7 @@ B: 2 struct qn -> {
 - Step 4: More liabilities 
 - Step 5: Have less $ in the bank
 - Org Data all the way to Purchasing Org slide
-- Master Data, what they are in general
+- 4 Master Data, what they are in general
 - Conditions Slide
 - Key Concept Slide
 - Item Categories Slide
@@ -38,12 +38,12 @@ B: 2 struct qn -> {
 
 ### Topic 4
 
-- Basic Fulfillment Process + Material Impact, Financial Impact
+- Basic Fulfillment Process (6 steps) + Material Impact, Financial Impact
 - Sales Org
 - Distribution Channel
 - Division 
 - Sales Area == prev 3
-- Master Data
+- 6 Master Data
 
 ### Topic 5
 

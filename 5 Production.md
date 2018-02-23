@@ -14,7 +14,7 @@
 
 ### Bill Of Materials
 
-+ **BOM Structure (IMPORTANT!)**:
++ **BOM Structure (IMPORTANT!)**:x
     * Header:
         - Status: Active | Inactive
         - Base Quantity

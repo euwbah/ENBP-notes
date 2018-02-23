@@ -38,7 +38,7 @@
             * **Bank account** will be in credit (debt to the bank)
         + **IMPORTANT Final outcome:**
             * Inventory in debit step 1
-            * GR/IR credit in step 1 then balanced in step 2
+            * GR/IR credit in ste/p 1 then balanced in step 2
             * Vendor & A/P in credit in step 2 then balanced in step 3
             * Bank in credit in step 3
 
